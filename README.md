@@ -28,7 +28,7 @@ The Excelerate platform hosts 5 types of opportunities: Internships, Courses, Ev
 ## 📁 Project Structure
 
 ```
-student-participation-prediction/
+Excelerate-Internship/
 │
 ├── data/
 │   └── README_data.md          # Dataset description (raw data not included)
@@ -39,17 +39,10 @@ student-participation-prediction/
 │   ├── Week3_ML_Models.ipynb
 │   └── Week4_Final_Analysis.ipynb
 │
-├── src/
-│   ├── data_cleaning.py        # Data preprocessing & feature engineering
-│   ├── eda.py                  # Exploratory data analysis functions
-│   ├── model.py                # ML model training & evaluation
-│   └── visualizations.py       # All chart generation functions
 │
 ├── outputs/
 │   └── predicted_probabilities.csv   # Model output for all 22 opportunities
 │
-├── reports/
-│   └── blog_post.md            # Internship reflection blog
 │
 ├── requirements.txt
 └── README.md

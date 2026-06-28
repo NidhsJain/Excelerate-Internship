@@ -1,0 +1,23 @@
+Opportunity,Category,Predicted_Prob,Applications,Tier
+Startup Mastery Workshop,Event,0.992,262,High
+UX Redesign Challenge,Competition,0.982,112,High
+UrbanRenew Challenge,Competition,0.978,138,High
+Join a Student Organisation,Engagement,0.975,121,High
+Xperience Design Hackathon,Competition,0.974,116,High
+Jump Start: Emotional Intelligence,Course,0.973,225,High
+Career Essentials (Prof. Journey),Course,0.944,1423,High
+Freelance Mastery Workshop,Event,0.937,237,High
+Mental & Physical Health Session,Event,0.935,46,High
+Upload Your First Year Transcript,Engagement,0.889,9,High
+CPR/AED Certification,Course,0.864,389,High
+Health Care Management,Internship,0.548,784,Moderate
+Project Management Associate,Internship,0.224,478,Low
+Digital Strategy Virtual Internship,Internship,0.221,331,Low
+Data Visualization Associate,Internship,0.22,551,Low
+Business Consulting,Internship,0.161,483,Low
+Innovation & Entrepreneurship,Internship,0.143,419,Low
+Project Management,Internship,0.128,836,Low
+Data Visualization,Internship,0.128,980,Low
+Digital Marketing,Internship,0.114,559,Low
+AI Ethics Challenge,Competition,0,55,Low
+Slide Geeks Competition,Competition,0,4,Low
